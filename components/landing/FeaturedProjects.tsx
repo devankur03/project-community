@@ -1,4 +1,3 @@
-'use cache';
 
 import { Flame, ArrowRight } from "lucide-react";
 import Link from "next/link";
